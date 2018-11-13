@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gostores/stack"
+	"github.com/govenue/stack"
 )
 
 func indirect1() stack.Stack {

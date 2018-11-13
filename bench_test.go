@@ -6,7 +6,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/gostores/stack"
+	"github.com/govenue/stack"
 )
 
 func BenchmarkCallersMulti(b *testing.B) {
